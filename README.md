@@ -47,6 +47,6 @@ Network Troubleshoot Toolkit provides quick access to essential Windows networki
 
 ```text
 Network_Troubleshoot_Toolkit/
-├── toolkit.py        → Main application
-├── assets/           → Icons and resources (if any)
-└── README.md         → Documentation
+├── Network_Toolkit.py        → Main application
+├── Network_Toolkit.exe       → Icons and resources (if any)
+└── README.md                 → Documentation
