@@ -52,5 +52,6 @@ Network_Troubleshoot_Toolkit/
 └── README.md                 → Documentation
 ```
 ## 🖥️ Screenshot
-<img width="325" height="506" alt="image" src="https://github.com/user-attachments/assets/fe1eedac-a5a2-4d2b-8e77-35db19dac709" />
+<img width="319" height="504" alt="image" src="https://github.com/user-attachments/assets/32fa575b-7555-45a0-b22d-278932eaa80b" />
+
 
