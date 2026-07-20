@@ -58,7 +58,7 @@ Network_Troubleshoot_Toolkit/
 ------
 ## 🧑‍💻 Developer
 
-Abdulbaseer Serat - MS in Computer Sciences - Abasyn University  | [GitHub](https://github.com/abdulbaseer-Serat) | [LinkedIn](https://linkedin.com/in/abdul-basir-serat-65b8201ab) | info.abdulbasir@gmail.com.
+Abdulbaseer Serat - MS in Computer Sciences - Abasyn University.Pak  | [GitHub](https://github.com/abdulbaseer-Serat) | [LinkedIn](https://linkedin.com/in/abdul-basir-serat-65b8201ab) | info.abdulbasir@gmail.com.
 
 ---
 
