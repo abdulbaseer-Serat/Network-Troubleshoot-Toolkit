@@ -7,7 +7,7 @@ A Python-based graphical utility designed to help network administrators and IT 
 ## 📌 Overview
 
 Network Troubleshoot Toolkit provides quick access to essential Windows networking commands without requiring command-line interaction. It is designed to simplify network diagnostics and troubleshooting.
-*tes*
+*te*
 
 ---
 
